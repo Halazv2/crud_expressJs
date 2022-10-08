@@ -36,7 +36,7 @@ GET /api/v1/employees/<employee_id>
 ### create employee
 
 ```bash
- POST /api/v1/employees
+POST /api/v1/employees
 ```
 
 ### update employee
