@@ -56,7 +56,6 @@ exports.update = function (req, res) {
   }
 };
 
-
 exports.delete = function (req, res) {
   Employee.delete(req.params.id, function (err, employee) {
     if (err) res.send(err);
