@@ -54,6 +54,6 @@ DELETE /api/v1/employees/<employee_id>
 ## Author 
 [Halazv2](https://github.com/Halazv2) 
 
-don't forget to star the repo if you find it useful. :) 
+Don't forget to star the repo if you find it useful ☺️❤️
 
 
