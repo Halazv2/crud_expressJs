@@ -1,7 +1,7 @@
 # Create CRUD APIs in NodeJS, Express and MySQL
 
 This is a simple NodeJS, Express and MySQL CRUD API example. 
-It is a simple API that allows you to create, read, update and delete empolyees.
+that allows you to create, read, update and delete empolyees.
 
 ## Installation
 
